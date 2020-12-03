@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently working on C#, WPF, XAML, SQL.
+🌱 I’m currently learning React and Node.
 <!--
 **lbdd18/lbdd18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
